@@ -1,7 +1,7 @@
 # colorGame
 ### File
 
-* [`color-correct-unsolved`](Unsolved/color-correct-unsolved.html)
+* [`color-game`](index.html)
 
 ### Instructions
 
