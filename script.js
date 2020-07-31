@@ -15,12 +15,13 @@ $(document).ready(function() {
 
     // Array for words
     var colors = [
-      "brown",
+      "violet",
+      "indigo",
       "blue",
-      "magenta",
-      "teal",
-      "coral",
-      "black"
+      "green",
+      "yellow",
+      "orange",
+      "red"
     ];
 
     // This function sets a random color "word" and a random set of colors "visuals"
